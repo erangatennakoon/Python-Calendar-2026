@@ -48,9 +48,9 @@ This Python project creates a neatly formatted, multi-month calendar for the yea
 
 ## Contributions
 
-This repository does not accept pull requests.  
-If you find a bug or have a feature request, please [open an issue](../../issues).  
-Feel free to fork and modify the code for your own purposes!
+- This repository does not accept pull requests.  
+- If you find a bug or have a feature request, please [open an issue](../../issues).  
+- Feel free to fork and modify the code for your own purposes!
 
 ## License
 
