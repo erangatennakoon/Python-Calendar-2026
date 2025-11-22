@@ -46,6 +46,12 @@ This Python project creates a neatly formatted, multi-month calendar for the yea
 
 ![Example calendar image](calendar_2026.png)
 
+## Contributions
+
+This repository does not accept pull requests.  
+If you find a bug or have a feature request, please [open an issue](../../issues).  
+Feel free to fork and modify the code for your own purposes!
+
 ## License
 
 This project is open source and available under the [MIT License](LICENSE.MIT).
